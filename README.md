@@ -18,6 +18,8 @@ The pipeline performs the following steps:
 The project follows the complete perception pipeline taught in the course and integrates both geometric and feature-based techniques for robust object tracking.
 
 ---
+## Pipeline Overview
+![Pipeline](pipeline.png)
 
 ## Implemented Tasks
 
